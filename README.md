@@ -49,7 +49,7 @@ The model is built using the Keras Sequential API and consists of:
 - Optimizer: `adam`  
 - Loss Function: `categorical_crossentropy`  
 - Metric: `accuracy`  
-- Trained for **20 epochs**
+- Trained for **10 epochs**
 
 ### 4. Evaluation
 - Visualizes accuracy and loss curves for training/validation
